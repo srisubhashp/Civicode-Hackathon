@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rithik/AndroidStudioProjects/SimpleStance1-subhashV1/app/src/main/res/layout/activity_full_screen_pos.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/Rithik/AndroidStudioProjects/SimpleStance1-subhashV1/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/Rithik/AndroidStudioProjects/SimpleStance1-subhashV1/app/src/main/res/layout/activity_login.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/Rithik/AndroidStudioProjects/SimpleStance1-subhashV1/app/src/main/res/layout/activity_register.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/Rithik/AndroidStudioProjects/SimpleStance1-subhashV1/app/src/main/res/layout/activity_still_image.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/Rithik/AndroidStudioProjects/SimpleStance1-subhashV1/app/src/main/res/layout/activity_understand_bad_posture.xml" value="0.16" />
+        <entry key="..\:/Users/Rithik/AndroidStudioProjects/SimpleStance1-subhashV1/app/src/main/res/layout/activity_user_profile.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/Rithik/AndroidStudioProjects/SimpleStance1-subhashV1/app/src/main/res/layout/activity_user_stats.xml" value="0.25" />
+        <entry key="..\:/Users/spath/StudioProjects/SimpleStance/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/spath/StudioProjects/SimpleStance/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/spath/StudioProjects/SimpleStance/app/src/main/res/layout/activity_main.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/spath/StudioProjects/SimpleStance/app/src/main/res/layout/activity_register.xml" value="0.18802083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressKotlinCodeStyleNotification">
+    <option name="disableForAll" value="true" />
+  </component>
+</project>
